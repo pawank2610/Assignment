@@ -1,4 +1,4 @@
-# Lab Assignment 2 - Portfolio Website (Aryan)
+# Lab Assignment 2 - Portfolio Website (pawan)
 
 This is pawan's Lab Assignment 2 project for 1st Semester.
 
